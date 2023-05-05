@@ -1,3 +1,7 @@
+### 설정하는 방법 알아보기! -> https://blog.naver.com/yb2316/222260350184
+
+---
+
 > [!CAUTION]
 > If you upgrade to v1.1.5+, please remember to:
 >
